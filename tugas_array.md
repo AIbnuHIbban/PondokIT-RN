@@ -9,29 +9,27 @@
   [
     ['VueJS'],
     [
-      'NodeJS',
+      ['NodeJS'],
       [
-        'Express'
+        ['Express']
       ]
     ]
     ['JQuery'],
     ['Vanilla'],
     ['React'],
     [
-      'React Native'
+      ['React Native']
     ]
   ],
   ['Dart'],
   [
-    'Flutter',
+    ['Flutter'],
     [
-      'Flutter Android'
+      ['Flutter Android']
     ]
   ],
   ['Java'],
-  [
-    'Java Desktop'
-  ],
+  ['Java Desktop'],
   ['HTML'],
   ['CSS']
 ]
