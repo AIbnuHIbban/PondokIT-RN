@@ -1,37 +1,37 @@
 [
-  'PHP',
+  ['PHP'],
   [
-    'Codeigniter 3',
-    'Laravel',
-    'Php Native'
+    ['Codeigniter 3'],
+    ['Laravel'],
+    ['Php Native']
   ],
-  'Javascript',
+  ['Javascript'],
   [
-    'VueJS',
+    ['VueJS'],
     [
       'NodeJS',
       [
         'Express'
       ]
     ]
-    'JQuery',
-    'Vanilla',
-    'React',
+    ['JQuery'],
+    ['Vanilla'],
+    ['React'],
     [
       'React Native'
     ]
   ],
-  'Dart',
+  ['Dart'],
   [
     'Flutter',
     [
       'Flutter Android'
     ]
   ],
-  'Java',
+  ['Java'],
   [
     'Java Desktop'
   ],
-  'HTML',
-  'CSS'
+  ['HTML'],
+  ['CSS']
 ]
