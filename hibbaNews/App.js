@@ -18,6 +18,7 @@ class App extends Component {
   }
 
   render() {
+    // set time out async javascript
     setTimeout(() => {
       this.setState({ 
         role:false
